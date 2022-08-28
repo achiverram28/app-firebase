@@ -1,2 +1,2 @@
 # app-firebase
-This is for the firebase part of the app
+This is for the firebase code for the authentication , firebase cloud and firebase database for the PETORA APP
